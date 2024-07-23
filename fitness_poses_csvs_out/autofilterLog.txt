@@ -1,0 +1,169 @@
+Number of outliers:  33
+Outlier
+  sample path =     fitness_poses_images_out\left\oneplus7pro 6.mp4_923.jpg
+  sample class =    left
+  detected class =  ['right']
+  all classes =     {'right': 6, 'left': 4}
+Outlier
+  sample path =     fitness_poses_images_out\left\oneplus7pro 6.mp4_955.jpg
+  sample class =    left
+  detected class =  ['right', 'left']
+  all classes =     {'right': 5, 'left': 5}
+Outlier
+  sample path =     fitness_poses_images_out\left\oneplus7pro 6.mp4_956.jpg
+  sample class =    left
+  detected class =  ['right', 'left']
+  all classes =     {'right': 5, 'left': 5}
+Outlier
+  sample path =     fitness_poses_images_out\left\oneplus7pro 6.mp4_987.jpg
+  sample class =    left
+  detected class =  ['right', 'left']
+  all classes =     {'right': 5, 'left': 5}
+Outlier
+  sample path =     fitness_poses_images_out\left\oneplus7pro1.mp4_342.jpg
+  sample class =    left
+  detected class =  ['right']
+  all classes =     {'right': 8, 'left': 2}
+Outlier
+  sample path =     fitness_poses_images_out\left\oneplus7pro1.mp4_473.jpg
+  sample class =    left
+  detected class =  ['right', 'left']
+  all classes =     {'right': 5, 'left': 5}
+Outlier
+  sample path =     fitness_poses_images_out\left\oneplus7pro3.mp4_109.jpg
+  sample class =    left
+  detected class =  ['right']
+  all classes =     {'right': 6, 'left': 4}
+Outlier
+  sample path =     fitness_poses_images_out\left\oneplus7pro3.mp4_174.jpg
+  sample class =    left
+  detected class =  ['right', 'left']
+  all classes =     {'right': 5, 'left': 5}
+Outlier
+  sample path =     fitness_poses_images_out\left\oneplus7pro3.mp4_175.jpg
+  sample class =    left
+  detected class =  ['right']
+  all classes =     {'right': 8, 'left': 2}
+Outlier
+  sample path =     fitness_poses_images_out\left\oneplus7pro3.mp4_329.jpg
+  sample class =    left
+  detected class =  ['right']
+  all classes =     {'right': 7, 'left': 3}
+Outlier
+  sample path =     fitness_poses_images_out\left\oneplus7pro3.mp4_393.jpg
+  sample class =    left
+  detected class =  ['right', 'left']
+  all classes =     {'right': 5, 'left': 5}
+Outlier
+  sample path =     fitness_poses_images_out\left\oneplus7pro5.mp4_6.jpg
+  sample class =    left
+  detected class =  ['right']
+  all classes =     {'right': 8, 'left': 2}
+Outlier
+  sample path =     fitness_poses_images_out\left\oneplus7pro5.mp4_618.jpg
+  sample class =    left
+  detected class =  ['right']
+  all classes =     {'right': 6, 'left': 4}
+Outlier
+  sample path =     fitness_poses_images_out\left\oneplus7pro5.mp4_7.jpg
+  sample class =    left
+  detected class =  ['right']
+  all classes =     {'right': 7, 'left': 3}
+Outlier
+  sample path =     fitness_poses_images_out\right\oneplus7pro 6.mp4_169.jpg
+  sample class =    right
+  detected class =  ['right', 'left']
+  all classes =     {'right': 5, 'left': 5}
+Outlier
+  sample path =     fitness_poses_images_out\right\oneplus7pro1.mp4_393.jpg
+  sample class =    right
+  detected class =  ['right', 'left']
+  all classes =     {'right': 5, 'left': 5}
+Outlier
+  sample path =     fitness_poses_images_out\right\oneplus7pro1.mp4_394.jpg
+  sample class =    right
+  detected class =  ['right', 'left']
+  all classes =     {'right': 5, 'left': 5}
+Outlier
+  sample path =     fitness_poses_images_out\right\oneplus7pro1.mp4_522.jpg
+  sample class =    right
+  detected class =  ['left']
+  all classes =     {'right': 4, 'left': 6}
+Outlier
+  sample path =     fitness_poses_images_out\right\oneplus7pro1.mp4_91.jpg
+  sample class =    right
+  detected class =  ['left']
+  all classes =     {'right': 1, 'left': 9}
+Outlier
+  sample path =     fitness_poses_images_out\right\oneplus7pro2.mp4_439.jpg
+  sample class =    right
+  detected class =  ['right', 'left']
+  all classes =     {'right': 5, 'left': 5}
+Outlier
+  sample path =     fitness_poses_images_out\right\oneplus7pro2.mp4_572.jpg
+  sample class =    right
+  detected class =  ['right', 'left']
+  all classes =     {'right': 5, 'left': 5}
+Outlier
+  sample path =     fitness_poses_images_out\right\oneplus7pro3.mp4_188.jpg
+  sample class =    right
+  detected class =  ['left']
+  all classes =     {'right': 4, 'left': 6}
+Outlier
+  sample path =     fitness_poses_images_out\right\oneplus7pro3.mp4_225.jpg
+  sample class =    right
+  detected class =  ['left']
+  all classes =     {'right': 3, 'left': 7}
+Outlier
+  sample path =     fitness_poses_images_out\right\oneplus7pro3.mp4_261.jpg
+  sample class =    right
+  detected class =  ['left']
+  all classes =     {'right': 2, 'left': 8}
+Outlier
+  sample path =     fitness_poses_images_out\right\oneplus7pro4.mp4_208.jpg
+  sample class =    right
+  detected class =  ['left']
+  all classes =     {'right': 4, 'left': 6}
+Outlier
+  sample path =     fitness_poses_images_out\right\oneplus7pro4.mp4_211.jpg
+  sample class =    right
+  detected class =  ['right', 'left']
+  all classes =     {'right': 5, 'left': 5}
+Outlier
+  sample path =     fitness_poses_images_out\right\oneplus7pro7.mp4_102.jpg
+  sample class =    right
+  detected class =  ['right', 'left']
+  all classes =     {'right': 5, 'left': 5}
+Outlier
+  sample path =     fitness_poses_images_out\right\oneplus7pro7.mp4_103.jpg
+  sample class =    right
+  detected class =  ['right', 'left']
+  all classes =     {'right': 5, 'left': 5}
+Outlier
+  sample path =     fitness_poses_images_out\right\oneplus7pro7.mp4_445.jpg
+  sample class =    right
+  detected class =  ['left']
+  all classes =     {'right': 4, 'left': 6}
+Outlier
+  sample path =     fitness_poses_images_out\right\oneplus7pro7.mp4_447.jpg
+  sample class =    right
+  detected class =  ['left']
+  all classes =     {'right': 2, 'left': 8}
+Outlier
+  sample path =     fitness_poses_images_out\right\oneplus7pro8.mp4_61.jpg
+  sample class =    right
+  detected class =  ['right', 'left']
+  all classes =     {'right': 5, 'left': 5}
+Outlier
+  sample path =     fitness_poses_images_out\right\oneplus7pro8.mp4_62.jpg
+  sample class =    right
+  detected class =  ['left']
+  all classes =     {'right': 4, 'left': 6}
+Outlier
+  sample path =     fitness_poses_images_out\right\oneplus7pro8.mp4_63.jpg
+  sample class =    right
+  detected class =  ['left']
+  all classes =     {'right': 3, 'left': 7}
+Number of images per pose class:
+  left: 346
+  right: 389
