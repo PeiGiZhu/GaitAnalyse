@@ -19,7 +19,7 @@
 
 ## Command example
 
-- Firstly, get joint angle from video, which is corresponding to 'Human pose detection' and 'Get joint angle signal' in the overview.pdf. This step will generate a rendered video in ***video_output*** folder and record some pre-processed data in ***data_record*** folder
+- Firstly, get joint angle from video. This step will generate a rendered video in ***video_output*** folder and record some pre-processed data in ***data_record*** folder
 
 ```python
 python .\VideoAnalyse.py -n video_fede.mp4 -m -pn 10 -mn 10.0 -pf 10 -mf 10.0
@@ -31,7 +31,7 @@ python .\VideoAnalyse.py -n video_fede.mp4 -m -pn 10 -mn 10.0 -pf 10 -mf 10.0
 
 
 
-- Secondly,  use FFT to filters gain signal and extracts key features, which is corresponding to 'Get filtered signal' and 'Extract gait features'. This step will generate filtered signal figures and extracted feature csv file in the  ***data_record*** folder
+- Secondly,  use FFT to filter gain signal and extracts key features. This step will generate filtered signal figures and extracted feature csv file in the  ***data_record*** folder
 
 ```
 python .\FeatureExtract.py -n video_fede.mp4 -ns right -c 0.15 -p 5
